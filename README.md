@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Efrain
 
-<!--
-**TAMOM-dev/TAMOM-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software development student focused on building solid desktop applications and improving my problem-solving skills.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+Currently developing projects using **C#** and applying concepts like **Clean Architecture** and **Clean Code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- C#, .NET  
+- SQL Databases  
+- Git & GitHub  
+- HTML, CSS, JavaScript  
+- Agile methodologies (Scrum)
+
+## 📫 Contact
+- Email: feliz.efrann@gmail.com
